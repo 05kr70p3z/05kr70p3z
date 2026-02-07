@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I’m Oscar Lopez
 
-<!--
-**05kr70p3z/05kr70p3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Computer Science graduate
+💻 Aspiring Software Engineer | Independent Mobile Developer
 
-Here are some ideas to get you started:
+I’m a software engineer with hands-on experience building real-world applications, conducting independent research, and teaching programming and STEM fundamentals. I enjoy turning ideas into practical, well-engineered solutions and continuously improving my craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 What I Do
+
+📱 Independent Mobile Development — designing and building mobile applications from idea to deployment
+
+🧠 Independent Research — contributing to self-directed technical and analytical projects
+
+👨‍🏫 STEM & Python Instruction — taught younger students Python and core STEM concepts
+
+🛠️ Software Engineering — experience across full-stack development, systems, and problem-solving
+
+🧩 Interests
+
+Software engineering & system design
+
+Mobile and full-stack development
+
+Data analysis & technical research
+
+Learning new tools and technologies
+
+📫 Let’s connect:
+
+GitHub: github.com/oscar-dev19
+
+LinkedIn: linkedin.com/in/oscar-lopez-dev

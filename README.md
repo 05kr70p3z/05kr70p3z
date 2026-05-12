@@ -15,6 +15,8 @@ I’m a software engineer with hands-on experience building real-world applicati
 
 🛠️ Software Engineering — experience across full-stack development, systems, and problem-solving
 
+🤖 Building and experimenting with **local** agentic workflows on constrained systems and consumer level hardware.
+
 🌎 Ethical Practices with Technology.
 
 🧩 Interests
